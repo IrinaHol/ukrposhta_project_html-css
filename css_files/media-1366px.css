@@ -1,0 +1,29 @@
+@media screen and (max-width: 1366px){
+    .logo {
+        padding-left: 98px;
+    }
+    nav > ul {
+        padding-left: 98px;
+    }
+    .top_form {
+        top: 62%;
+    }
+    .top_box {
+        padding-left: 98px;
+    }
+    input {
+        height: 80px;
+    }
+    .center_box {
+        padding-left: 98px;
+    }
+    .info_box {
+        padding-left: 98px;
+    }
+    .money_box {
+        padding-left: 98px;
+    }
+    .search_box {
+        padding: 150px 0 0 98px;
+    }
+}
