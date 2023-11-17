@@ -5,7 +5,6 @@ body {
 }
 
 header {
-    width: 100vw;
     height: 150px;
 }
 
@@ -40,7 +39,6 @@ nav > ul > li > a {
 }
 
 .top_box {
-    width: 100vw;
     height: 450px;
     background-color: #FEC524;
     padding-left: 135px;
@@ -124,7 +122,6 @@ input[type=button]:last-child {
 }
 
 .center_box {
-    width: 100vw;
     height: 800px;
     background-color: #F8F8F8;
     color: #0E2F4B;
@@ -174,7 +171,6 @@ input[type=button]:last-child {
 }
 
 .info_box {
-    width: 100vw;
     height: 660px;
     background-color: #042C4B;
     padding: 150px 0 0 150px;
@@ -215,7 +211,6 @@ button {
 }
 
 .money_box {
-    width: 100vw;
     height: 880px;
     background-color: #F8F8F8;
     padding: 100px 0 0 135px;
@@ -278,7 +273,6 @@ button {
 }
 
 .search_box {
-    width: 100vw;
     height: 635px;
     background: #0E2F4B;
     padding: 165px 0 0 135px;
